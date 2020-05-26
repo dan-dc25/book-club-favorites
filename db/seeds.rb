@@ -21,5 +21,5 @@ the_sault_in_our_stars = Book.create(name: "The Fault in Our Stars", author: "Jo
 naked = Book.create(name: "Naked", author: "David Sedaris", genre: "memoir", user: sam)
 its_kind_of_a_funny_story = Book.create(name: "It's Kind of a Funny Story", author: "Ned Vizzini", genre: "comedy", user: sam)
 harry_potter_and_the_goblet_of_fire = Book.create(name: "Harry Potter and The Goblet of Fire", author: "J. K. Rowling", genre: "fiction", user: sam)
-harry_potter_and_the_sorcerers_stone = book.create(name: "Harry Potter and The Sorceres Stone", author: "J. K. Rowling", genre: "fiction", user: sam)
+harry_potter_and_the_sorcerers_stone = Book.create(name: "Harry Potter and The Sorceres Stone", author: "J. K. Rowling", genre: "fiction", user: sam)
 harry_potter_and_the_deathly_hallows = Book.create(name: "Harry Potter and The Deathly Hallows", author: "J. K. Rowling", genre: "fiction", user: sam)
